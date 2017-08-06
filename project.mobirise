@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cabinet-impact1",
-    "currentPage": "index.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1039,7 +1039,7 @@
             }
           },
           "title": "Presentation Skills Training",
-          "text": "Presentations are about the presenter sharing their expertise, insights, and clear messaging so their audience understands what the data means, actions to take, or changes to champion.<br><br>The most influential leaders know presentations are a platform to establishing thought leadership and industry presence.  <br><br>Through on site practice and feedback, IMPACT coaches entrepreneurs/executives/students to be more effective presenters by focusing on their audience and clarifying their message – whether they are leading a team, informing peers, promoting a project, or pitching their startups.<br>",
+          "text": "Presentations are about the presenter sharing their expertise, insights, and clear messaging so their audience understands what the data means, actions to take, or changes to champion.<br><br>The most influential leaders know presentations are a platform to establishing thought leadership and industry presence.  <br><br>Through on site practice and feedback, IMPACT coaches entrepreneurs/executives/students to be more effective presenters by focusing on their audience and clarifying their message – whether they are leading a team, informing peers, promoting a project, or pitching their startups.<br><br>When, Where &amp; How much:<br><br>Classes for executives, managers and leaders<br>Classes for young professionals<br>This course is also available as one-on-one coaching and Corporate Public Speaking Workshop<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
         },
         {
@@ -1544,7 +1544,7 @@
           "title": "WANT TO JOIN OUR NEXT TRAINING SESSION ?",
           "subtitle": "Subscribe here and be the first to get in touch :)",
           "form": {
-            "action": "mariane.megne@gmail.com",
+            "action": "contact@cabinet-impact.com",
             "alerts": {
               "success": "Thank you and see you soon !"
             },
