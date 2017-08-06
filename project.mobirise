@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cabinet-impact1",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -521,10 +521,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-15-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -544,7 +544,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -617,7 +617,8 @@
               "color": "#0baf22"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-7",
@@ -650,7 +651,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sngompe@cabinet-impact.com<br>\nPhone 1: +237 699 009 863<br>Phone 2: +237 677 588 252",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm) ",
           "text3": "<p><strong>Links</strong><br><a href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">LinkedIn Page</a><br></p><p><a href=\"#\">Download our Catalogue&nbsp;</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><br><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         },
         {
@@ -1295,7 +1296,8 @@
               "color": "#0baf22"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-a",
@@ -1328,7 +1330,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sngompe@cabinet-impact.com<br>\nPhone 1: +237 699 009 863<br>Phone 2: +237 677 588 252",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm) ",
           "text3": "<p><strong>Links</strong><br><a href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">LinkedIn Page</a><br></p><p><a href=\"#\">Download our Catalogue&nbsp;</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><br><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         }
       ]
@@ -1538,7 +1540,7 @@
           "title": "WANT TO JOIN OUR NEXT TRAINING SESSION ?",
           "subtitle": "Subscribe here and be the first to get in touch :)",
           "form": {
-            "action": "marianemegne@gmail.com",
+            "action": "mariane.megne@gmail.com",
             "alerts": {
               "success": "Thank you and see you soon !"
             },
@@ -1684,7 +1686,8 @@
               "color": "#0baf22"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-p",
@@ -1717,7 +1720,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sngompe@cabinet-impact.com<br>\nPhone 1: +237 699 009 863<br>Phone 2: +237 677 588 252",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm) ",
           "text3": "<p><strong>Links</strong><br><a href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">LinkedIn Page</a><br></p><p><a href=\"#\">Download our Catalogue&nbsp;</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><br><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         }
       ]
@@ -2055,7 +2058,8 @@
               "color": "#0baf22"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-13",
@@ -2088,7 +2092,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sngompe@cabinet-impact.com<br>\nPhone 1: +237 699 009 863<br>Phone 2: +237 677 588 252",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm) ",
           "text3": "<p><strong>Links</strong><br><a href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">LinkedIn Page</a><br></p><p><a href=\"#\">Download our Catalogue&nbsp;</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><br><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         }
       ]
@@ -2258,164 +2262,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "font-size": "16px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1m",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": false,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "hidden"
-          },
-          "title": "PRIVATE SESSION or ONE TO ONE COACHING",
-          "subtitle": "Our offers fit all budgets ;)",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "XAF",
-          "price1": "15.000",
-          "period1": "&nbsp;",
-          "description1": "This is the perfect solution for .......",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Custom schedule time</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SELECT</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "XAF",
-          "price2": "30.000",
-          "period2": "",
-          "description2": "This is the perfect solution for .......",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Custom schedule time</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SELECT</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "XAF",
-          "price3": "45.000",
-          "period3": "",
-          "description3": "This is the perfect solution for .......",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Custom schedule time</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SELECT</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff",
-              "font-size": "30px"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-price-figure": {
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1p",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": false,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "hidden"
-          },
-          "title": "GROUP SESSION",
-          "subtitle": "Our offers fit all budgets ;)",
-          "label1": "HOT!",
-          "title1": "COMPANIES",
-          "subtitle1": "Description",
-          "currency1": "XAF",
-          "price1": "120.000",
-          "period1": "/pers.",
-          "description1": "This is the perfect solution for .......",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">SELECT</a>",
-          "label2": "HOT!",
-          "title2": "SCHOOLS",
-          "subtitle2": "Description",
-          "currency2": "XAF",
-          "price2": "50.000",
-          "period2": "/pers.",
-          "description2": "This is the perfect solution for .......",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "OTHER INSTITUTIONS",
-          "subtitle3": "Description",
-          "currency3": "XAF",
-          "price3": "80.000",
-          "period3": "/pers.",
-          "description3": "This is the perfect solution for .......",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2448,7 +2294,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Please, write your choice at the beginning of your message.",
           "form": {
-            "action": "marianemegne@gmail.com",
+            "action": "contact@cabinet-impact.com",
             "alerts": {
               "success": "Thank you ! We will contact you between the next 48 hours."
             },
@@ -2489,7 +2335,8 @@
               "color": "#0baf22"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "13px"
             }
           },
           "_anchor": "contacts1-1k",
@@ -2522,7 +2369,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sngompe@cabinet-impact.com<br>\nPhone 1: +237 699 009 863<br>Phone 2: +237 677 588 252",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm) ",
           "text3": "<p><strong>Links</strong><br><a href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">LinkedIn Page</a><br></p><p><a href=\"#\">Download our Catalogue&nbsp;</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a><br><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         }
       ]

@@ -553,6 +553,7 @@ h6,
 }
 #contacts1-7 P {
   color: #ffffff;
+  font-size: 13px;
 }
 #footer1-8 P {
   color: #0baf22;
@@ -682,6 +683,7 @@ h6,
 }
 #contacts1-a P {
   color: #ffffff;
+  font-size: 13px;
 }
 
 
@@ -808,6 +810,7 @@ h6,
 }
 #contacts1-p P {
   color: #ffffff;
+  font-size: 13px;
 }
 
 
@@ -910,6 +913,7 @@ h6,
 }
 #contacts1-13 P {
   color: #ffffff;
+  font-size: 13px;
 }
 
 
@@ -988,24 +992,6 @@ h6,
   color: #0bcf22;
   font-size: 36px;
 }
-#pricing-table1-1m .mbr-section__container .mbr-section-title {
-  color: #ffffff;
-  font-size: 30px;
-}
-#pricing-table1-1m .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-  font-size: 16px;
-}
-#pricing-table1-1p .mbr-section__container .mbr-section-title {
-  color: #fff;
-  font-size: 30px;
-}
-#pricing-table1-1p .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#pricing-table1-1p .mbr-price-figure {
-  font-size: 36px;
-}
 #form1-1s .form-control-label {
   color: #232323;
 }
@@ -1021,4 +1007,5 @@ h6,
 }
 #contacts1-1k P {
   color: #ffffff;
+  font-size: 13px;
 }
