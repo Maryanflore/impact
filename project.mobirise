@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cabinet-impact1",
-    "currentPage": "events.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -446,7 +446,7 @@
               "text": "<p>With her combined passions for effective communication and relevant workplace learning, Sylvie Ngompe’s focus is always providing direct, complete, and compelling deliverables.  In the training room, her focus is on supporting each learner in meeting their specific learning goals.  She achieves this, in part, through engaging and interactive learning that is purpose-driven, enjoyable, and immediately applicable.</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Sylvie Ngompe is a Technology (PMP &amp; ITIL certified), Public Speaking coach (Competent Communicator and Advance Leader Bronze – Toastmasters), Presentation skills trainer Executive Coach. Her 10+ years of experience range from implementing Technology solution at banks and multinational corporations to executive coaching, career/admissions coaching, leadership program management.</span><br></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Her approach is personal, highly customized, and provides an accountability checkpoint and sounding board for companies desiring to develop and coach employees, high potential talents and executives. Her goal in leadership program management is to partner with communication, human resources and executives to address personal, employee and company’s gaps in amaning and developing talent across organizations.</span><br></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/capture-160x130.png",
+                  "src": "@PROJECT_PATH@/assets/images/img-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -945,7 +945,7 @@
           },
           "title4": "Public Speaking Coaching",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "XXX gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "\"It's not what you say, but how you say it.\" How often have you heard that phrase? It might be over-familiar but it's well-used because it's true. <br>All what you need to become a polished persuasive public speaker<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
