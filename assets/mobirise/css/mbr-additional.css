@@ -529,6 +529,13 @@ h6,
 #testimonials1-6 .card-block P {
   font-family: 'Lora', serif;
 }
+#msg-box8-1v .mbr-section-title,
+#msg-box8-1v p {
+  color: #fff;
+}
+#msg-box8-1v .mbr-section-title {
+  color: #14c547;
+}
 #header3-1a .mbr-section-title,
 #header3-1a .mbr-section-subtitle {
   text-align: center;
