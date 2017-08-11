@@ -504,7 +504,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "GALLERY",
+          "title": "GALLERY\u001b\u001b",
           "meta": "YSW, posted July 30, 2017"
         },
         {
@@ -517,22 +517,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-15-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-15-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bukit-timah-7-2000x1301-800x520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bukit-timah-7-2000x1301.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -541,20 +531,70 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bukit-timah-1-2000x1309-800x523.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bukit-timah-1-2000x1309.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-14-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-14-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1332.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bukit-timah-5-2000x1301-800x520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bukit-timah-5-2000x1301.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bukit-timah-3-2000x1290-800x516.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bukit-timah-3-2000x1290.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
