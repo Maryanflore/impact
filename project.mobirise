@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cabinet-impact1",
-    "currentPage": "testimonies.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1342,7 +1342,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/recite-1v1jh7t-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/recite-1v1jh7t-2-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
