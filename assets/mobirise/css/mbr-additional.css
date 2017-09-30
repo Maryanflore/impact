@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -543,6 +543,12 @@ h6,
 #header3-1a H3 {
   color: #0baf22;
   font-size: 30px;
+}
+#form2-1w .mbr-section-title {
+  color: #10d23c;
+}
+#form2-1w .mbr-section-subtitle {
+  color: #ffffff;
 }
 #social-buttons3-1t .mbr-section-title,
 #social-buttons3-1t .btn-social {
