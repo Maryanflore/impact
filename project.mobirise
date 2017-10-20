@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "cabinet-impact1",
-    "currentPage": "index.html",
+    "name": "cabinet-impact1-fr",
+    "currentPage": "book-fr.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,15 +29,1712 @@
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.3.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": ""
   },
   "pages": {
-    "index.html": {
+    "book-fr.html": {
+      "settings": {
+        "title": "Réserver une session",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#0baf22"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0baf22"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0baf22",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0baf22",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#19c224!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1i",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#0baf22",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>ACCUEIL &nbsp;&nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TEMOIGNAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">ENGLISH</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#0baf22"
+            }
+          },
+          "_anchor": "footer1-1j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 IMPACT."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#0bcf22",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1276.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "RESERVER UNE SEANCE DE COACHING",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#0bcf22",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-1s",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FORMULAIRE",
+          "subtitle": "Ecrivez votre choix au début du message&nbsp;",
+          "form": {
+            "action": "contact@cabinet-impact.com",
+            "alerts": {
+              "success": "Merci ! Nous vous contactons sous 48h."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Mobile"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#0baf22"
+            },
+            "SPAN": {
+              "color": "#0baf22"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroun<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8h30- 17h)<br>WhatsApp: +237 777 588 252<br> ",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Concepteur</a></p>"
+        }
+      ]
+    },
+    "testimonies-fr.html": {
+      "settings": {
+        "title": "Témoignages",
+        "meta_descr": "Web Page Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0baf22",
+              "font-size": "36px"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-footer > div": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p>\"C'est vraiment un outil très incroyable qui m'a fait apprendre des choses merveilleuses sur moi-même. J'espère avoir une très grande opportunité de l'utiliser devant un public. Merci encore pour cette belle session \"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/capture-156x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Anthony Kamgang",
+              "authorBio": "Youth speaker"
+            },
+            {
+              "text": "<p>\"Tout d'abord BRAVO les gars pour votre effort, super outil. Bon travail d'équipe IMPACT. Nous attendons bientôt la prochaine session avec des outils avancés et des conseils complets sur le leadership. Une super expérience. \"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-130x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Brice Muna",
+              "authorBio": "Youth speaker"
+            },
+            {
+              "text": "<p>\"À première vue, cela ressemble à un bon programme novateur, j'aime la grande concentration et le temps qui a été donné à la partie penser vite/ réagir.</p><p>Donnez m'en plus !</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/img-143x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Leana Fotso",
+              "authorBio": "Youth speaker"
+            }
+          ],
+          "_anchor": "testimonials3-15",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": "3",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CE QUE DISENT NOS APPRENANTS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BESOIN DE PLUS D'INFOS AU SUJET DE NOS ACTIVITES ?",
+          "text": "<p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#0baf22"
+            }
+          },
+          "_anchor": "form1-16",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACTEZ NOUS",
+          "subtitle": "Devenez une source d'inspiration pour le monde. Commencer ici !",
+          "form": {
+            "action": "maryaflore@yahoo.fr",
+            "alerts": {
+              "success": "Merci d'avoir rempli ce formulaire !"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Mobile"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">OK</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#0baf22"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0baf22"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0baf22",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0baf22",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#19c224!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#0baf22",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>ACCUEIL &nbsp;&nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TEMOIGNAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">ENGLISH</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#0baf22"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 IMPACT."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#0baf22"
+            },
+            "SPAN": {
+              "color": "#0baf22"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-13",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroun<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8h30- 17h)<br>WhatsApp: +237 777 588 252<br> ",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Concepteur</a></p>"
+        }
+      ]
+    },
+    "events-fr.html": {
+      "settings": {
+        "title": "Evènements !",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "3",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "HAPPY JUNE HOLS !!",
+                "showText": true,
+                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "HAPPY JUNE HOLS !!",
+                "showText": true,
+                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "HAPPY JUNE HOLS !!",
+                "showText": true,
+                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-w",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content2-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>C'est toujours une contradiction si étrange d'émotions - passer autant de temps avec les enfants apporte tant de joie. Mais quand l'école est terminée et que deux ou trois de ces enfants trouvent des raisons de se battre contre TOUT - quelques jours, je veux courir.\n</blockquote><blockquote>Cela dit, je crois toujours en eux. Et je sais que tous les parents voudront toujours s'assurer que nous faisons le meilleur et leur donnons le meilleur de nous-mêmes. Alors rejoignez nous, nous allons introduire un nouvel événement et deux anciens.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "32px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
+          "meta": "UN MOIS dédié à la communication et au Leadership des jeunes<br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#0baf22",
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "DIV": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box1-z",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Cette Session est bouclée</a>",
+          "text": "Les participants apprennent à:",
+          "title": "Évaluer la capacité parlante actuelle\n<div>Organiser et donner des discours\n</div><div>Donner des discours impromptues\n</div><div>Contrôler la voix, le vocabulaire et les gestes\n</div><div>Donnez des commentaires constructifs et plus</div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-10",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-16-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ENVIE DE REJOINDRE NOTRE PROCHAINE SESSION ?",
+          "subtitle": "Abonnez-vous ici et soyez parmi les premiers à être contactés :)",
+          "form": {
+            "action": "contact@cabinet-impact.com",
+            "alerts": {
+              "success": "Merci ! A très bientôt."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Saisissez votre email..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SOUSCRIRE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#0baf22"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0baf22"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0baf22",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0baf22",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#19c224!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#0baf22",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>ACCUEIL &nbsp;&nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TEMOIGNAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">ENGLISH</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#0baf22"
+            }
+          },
+          "_anchor": "footer1-o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 IMPACT."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#0baf22"
+            },
+            "SPAN": {
+              "color": "#0baf22"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroun<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8h30- 17h)<br>WhatsApp: +237 777 588 252<br> ",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Concepteur</a></p>"
+        }
+      ]
+    },
+    "services-fr.html": {
+      "settings": {
+        "title": "Services ",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#0bcf22",
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-d",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/session-2548826-2000x1328.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BOOSTEZ VOS COMPETENCES DE LEADER AVEC NOUS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#0baf22"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0baf22"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0baf22",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0baf22",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#19c224!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#0baf22",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>ACCUEIL &nbsp;&nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TEMOIGNAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">ENGLISH</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#0baf22"
+            }
+          },
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 IMPACT."
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-1u",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title1": "Formation en Techniques de Présentation",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Pensez à la dernière présentation puissante que vous avez vue ... Celle qui a été inspirante, motivante et instructive. Ne voulez-vous pas présenter de cette façon &nbsp;?",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "Atelier d'art oratoire pour entreprise",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Les compétences difficiles peuvent être apprises à l'école et dans les livres. La plupart des compétences non techniques ne sont pas bien enseignées à l'école et doivent être apprises au travail par des essais et des erreurs.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Atelier d'expression orale pour les jeunes",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Les étudiants apprennent à prononcer des discours courts et des présentations en classe avec facilité. Conseils et techniques sont partagés afin que les étudiants deviennent de plus en plus à l'aise pour s'exprimer devant un auditoire.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Coaching de Prise de parole en Public",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "\"Ce n'est pas ce que tu dis, mais comment tu le dis.\" Combien de fois avez-vous entendu cette phrase? Cette formation vous transmet tout ce dont vous avez besoin pour devenir un orateur convaincant.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "profile-male",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title5": "Coaching individuel<br><br>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Le coaching individuel est la solution préférée des cadres supérieurs. &nbsp;Le processus est simple. Nous vous &nbsp;rencontrerons pour établir où votre but, où vous en êtes et combien de temps cela prendra pour combler l'écart.<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-g",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/im1-1400x1998.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Formation en Techniques de Présentation",
+          "text": "Les présentations portent sur le fait que le présentateur partage son expertise, ses idées et ses messages clairs afin que son auditoire comprenne ce que les données signifient, les mesures à prendre ou les changements à apporter.\n<br>\n<br>Les leaders les plus influents savent que les présentations sont une plate-forme pour établir le leadership éclairé et marquer sa présence.\n<br>\n<br>IMPACT aide les entrepreneurs / cadres / étudiants à être des présentateurs plus efficaces en se concentrant sur leur auditoire et en clarifiant leur message - qu'ils dirigent une équipe, qu'ils informent leurs pairs, qu'ils promeuvent un projet ou qu'ils lancent leur entreprise.\n<br>\n<br>Quand, où et combien:\n<br>\n<br>Des cours pour cadres, managers et dirigeants\n<br>Des cours pour jeunes professionnels\n<br>Ce cours est également disponible en tant que coaching individuel et atelier d'expression orale en entreprise<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "30px",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box5-h",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/corporate-1-1400x1981.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Atelier d'art oratoire pour entreprise",
+          "text": "Presque tous les employés sont censés être en mesure de livrer avec confiance un argument bien structuré ou un rapport / examen opérationnel. Mais sans entraînement, c'est un défi. Le personnel technique, financier et administratif doit connaître les fondamentaux d'une présentation efficace.\n<br>\n<br>Nous offrons des ateliers de formation à la parole qui peuvent être offerts sur place à des groupes d'employés. Nous passons en revue les principes clés de la communication et certains volontaires peuvent avoir une pratique en temps réel. Il convient bien aux groupes de huit à douze membres.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "30px",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-j",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/im2-1400x1988.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Coaching de Prise de parole en Public",
+          "text": "-Développer un personnage de performance pour le leadership.\n<br>-Transition dans un nouveau rôle avec plus de visibilité.\n<br>- Mise en place de vos produits, services ou vision.\n<br>-Améliorer vos compétences vocales et votre présence sur scène.\n<br>-Renforcer votre capacité à délivrer un message puissant.\n<br>-Conquérir la peur de parler en public.\n<br>-Compétences en persuasion avec des prospects, des clients, des clients et des conseils d'administration.\n<br>-Motivation et activation des employés et des parties prenantes.\n<br>-Utiliser le langage du corps et la communication non verbale efficacement.\n<br>-Devenir un conférencier mémorable qui produit des résultats fiables.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box5-k",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Atelier d'expression orale pour les jeunes",
+          "text": "Un accent particulier est mis sur le langage corporel efficace, la projection / contrôle de la voix et l'établissement d'un contact visuel avec le public.\n<br>Les étudiants sont encadrés dans le processus étape par étape, de la composition, de la pratique et de la prestation d'un discours tout en apprenant les principes de base de la façon dont ils seront évalués. Les élèves recevront les outils nécessaires pour inspirer, éduquer et divertir un auditoire dans un environnement amusant rempli d'activités. Les étudiants apprennent vraiment que parler en public peut être amusant et gratifiant.\n<br>\n<br>-Les cours sont tenus pendant 1-2 heures sur 4 à 8 semaines\n<br>-Ce cours peut être dispensé pendant les heures d'école ou en tant que programme après-école\n<br>-Le nombre maximum d'étudiants par classe est de 20<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#0baf22",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box5-m",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/recite-1v1jh7t-2-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Coaching individuel",
+          "text": "-Assister à une présentation et découvrir que l'orateur n'a pas vraiment personnalisé le contenu pour vos besoins particuliers?\n<br>-Vous n'avez pas le temps d'assister à un programme de formation?\n<br>-Vous avez des besoins de développement qui ne sont pas partagés par tout le monde?\n<br>\n<br>Chacun de ces exemples se produit plus souvent qu'il ne le devrait et est le résultat de la même erreur qui est de croire que la communication est unique. Mais rien ne peut être plus éloigné de la vérité!\n<br>\n<br>Le processus est simple. Nous vous rencontrerons pour établir où vous voulez vous rendre, où vous en êtes et combien de temps cela prendra pour combler l'écart.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOT IT NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#0baf22"
+            },
+            "SPAN": {
+              "color": "#0baf22"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroun<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8h30- 17h)<br>WhatsApp: +237 777 588 252<br> ",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Concepteur</a></p>"
+        }
+      ]
+    },
+    "index-fr.html": {
       "settings": {
         "main": true,
-        "title": "Welcome to IMPACT",
+        "title": "Bienvenue à IMPACT",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -81,8 +1778,8 @@
             "overlayOpacity": 0.5
           },
           "title": "IMPACT",
-          "text": "\"The use of the Individual's best skills to convey a clear Message, well Prepared, with good Audience interaction, presented with Conviction and supported by the right Technical backup.\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"book.html\" data-toolbar=\"-mbrBtnMove\">BOOK A TRAINING SESSION</a> "
+          "text": "'' Utiliser les meilleures compétences de chaque individu afin de transmettre un message clair, bien préparé, avec une bonne interaction avec le public, présenté avec conviction et soutenu par la bonne sauvegarde technique.''",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"book.html\" data-toolbar=\"-mbrBtnMove\">RESERVER UNE SESSION DE FORMATION</a> "
         },
         {
           "_inherit": "msg-box5",
@@ -139,8 +1836,8 @@
               "size": 250
             }
           },
-          "title": "ABOUT US",
-          "text": "IMPACT offers high quality Communications Skills Training and Coaching services. <br>We assist professionals to communicate more effectively, boosting their career growth as well as enabling their organizations to reap from better productivity.<br>Trainers and coaches are themselves accomplished speakers, we walk the talk. Besides their professional training and certifications, they also bring on board a wealth of personal and practical experience",
+          "title": "A PROPOS DE NOUS",
+          "text": "IMPACT offre des services de formation et de coaching de haute qualité en communication.\n<br>Nous aidons les professionnels à communiquer plus efficacement, en stimulant la croissance de leur carrière et en permettant à leurs organisations de bénéficier d'une meilleure productivité.\n<br>Les formateurs sont eux-mêmes des conférenciers accomplis. <br>Outre leur formation professionnelle et leurs certifications, ils apportent également une riche expérience personnelle et pratique.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -151,7 +1848,9 @@
           "_styles": {
             "H1": {
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
               "color": "#c1c1c1"
@@ -163,7 +1862,7 @@
             "paddingBottom": "1",
             "bgColor": "#0e0d0d"
           },
-          "text": "<blockquote><h1>“Foundation for genuine employee engagement begins with extensive and effective communication… and the resulting behaviors show up in increased productivity, heightened innovation, and improved job satisfaction”.</h1><p><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Lora, serif; line-height: 1.5;\">Mahan Tavakoli, a leader at Dale Carnegie Employee Training</span></p></blockquote>"
+          "text": "<blockquote><h1>\" La fondation pour un véritable engagement des employés commence par une communication étendue et efficace ... et les comportements qui en résultent se traduisent par une productivité accrue, une innovation accrue et une meilleure satisfaction au travail \".</h1><p><span style=\"font-size: 1.07rem; font-weight: 300; font-family: Lora, serif; line-height: 1.5;\">Mahan Tavakoli, un leader au Dale Carnegie Employee Training</span></p></blockquote>"
         },
         {
           "_inherit": "features3",
@@ -216,9 +1915,9 @@
               "newWindow": false
             }
           },
-          "title1": "Our VISION",
+          "title1": "Notre VISION",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We are the provider of choice for our services. <br>Customer service is our highest priority, and we are responsive, effective and innovative in meeting and exceeding our customers' expectations. We value those we serve and treat our customers and each other with respect and courtesy. <br>We build relationships based on trust.",
+          "caption1": "Nous sommes le fournisseur de choix pour nos services.\n<br>Le service à la clientèle est notre plus haute priorité et nous sommes réactifs, efficaces et innovateurs pour satisfaire et dépasser les attentes de nos clients. Nous apprécions ceux que nous servons et traitons nos clients avec respect et courtoisie.\nNous construisons des relations basées sur la confiance.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -233,9 +1932,9 @@
               "newWindow": false
             }
           },
-          "title2": "Our VALUES",
+          "title2": "Nos VALEURS",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Our values serve as a compass for our actions and describe how we behave in the society.<br>Passion:&nbsp;Committed in heart and mind <br>Integrity:&nbsp;Be real<br>Leadership:&nbsp;The courage to shape a better future<br>Empathy:&nbsp;Positive energy towards others<br>",
+          "caption2": "Nos valeurs servent de boussole pour nos actions et décrivent comment nous nous comportons en société.\n<br>Passion: engagée dans le cœur et l'esprit\n<br>Intégrité: Soyez réel<br>Leadership: le courage de façonner un avenir meilleur\n<br>Empathie: énergie positive envers les autres<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -250,9 +1949,9 @@
               "newWindow": false
             }
           },
-          "title3": "Our MISSION",
+          "title3": "Notre MISSION",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<span style=\"line-height: 1.5;\">• Inspire Moments of Optimism</span><br>• Motivate people<br>• Persuade Others<br>• Achieve greatness<br>• Challenge the Status Quo<br>• Trust Your Guts<br>",
+          "caption3": "• Inspirer des moments d'optimisme\n<br>• Motiver les gens\n<br>• Persuader les autres\n<br>• Atteindre la grandeur\n<br>• Défier le statu quo\n<br>• Faites confiance à vos tripes<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -359,7 +2058,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -390,7 +2089,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>HOME&nbsp; &nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TESTIMONIES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>ACCUEIL &nbsp;&nbsp;</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENEMENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TEMOIGNAGES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">ENGLISH</a></li>"
         },
         {
           "_styles": {
@@ -399,7 +2098,7 @@
             },
             ".mbr-section-title": {
               "color": "#0baf22",
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -426,7 +2125,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MEET OUR AWESOME LEADING COACH",
+          "title": "RENCONTREZ NOTRE MERVEILLEUSE TRAINING LEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -449,7 +2148,7 @@
           },
           "testimonial": [
             {
-              "text": "<p>With her combined passions for effective communication and relevant workplace learning, Sylvie Ngompe’s focus is always providing direct, complete, and compelling deliverables. &nbsp;In the training room, her focus is on supporting each learner in meeting their specific learning goals. &nbsp;She achieves this, in part, through engaging and interactive learning that is purpose-driven, enjoyable, and immediately applicable.</p><p>Sylvie Ngompe is a Technology (PMP &amp; ITIL certified), Public Speaking coach (Competent Communicator and Advance Leader Bronze – Toastmasters), Presentation skills trainer Executive Coach. Her 15 years of experience range from implementing Technology solution at banks (Cameroon, DRC, Ghana, Nigeria) and multinational corporations to executive coaching (Angola, Singapore), career/admissions coaching, leadership program management (Singapore, Cameroon). This international exposure gave her a better understanding of communication issues and business environment.&nbsp;</p><p>Her approach is personal, highly customized, and provides an accountability checkpoint and sounding board for companies desiring to develop and coach employees, high potential talents and executives. Her goal in leadership program management is to partner with communication, human resources and executives to address personal, employee and company’s gaps in amaning and developing talent across organizations.</p>",
+              "text": "<p>Avec ses passions combinées pour une communication efficace et un apprentissage pertinent sur le lieu de travail, Sylvie Ngompe se concentre toujours sur des présentations directes, complètes et convaincantes. Dans la salle de formation, elle se concentre sur le soutien à chaque apprenant pour atteindre ses objectifs d'apprentissage spécifiques. Elle y parvient en partie grâce à un apprentissage attrayant et interactif axé sur les besoins, agréable et immédiatement applicable.</p><p>Sylvie Ngompe est certifiée en technologie (PMP &amp; ITIL), coach en communication publique (communicatrice compétente et leader en bronze - Toastmasters), formatrice en coaching de présentation. Ses 15 ans d'expérience vont de la mise en œuvre de solutions technologiques dans les banques (Cameroun, RDC, Ghana, Nigeria) et multinationales au coaching exécutif (Angola, Singapour). Cette exposition internationale lui a permis de mieux comprendre les problèmes de communication et l'environnement des affaires.</p><p>Son approche est personnelle, hautement personnalisée, et fournit un point de contrôle de responsabilité et une caisse de résonance pour les entreprises désireuses de développer et de former des employés, des talents à fort potentiel et des cadres. Son but dans la gestion de programme de leadership est de s'associer avec la communication, les ressources humaines et les cadres pour combler les lacunes personnelles, d'employé et d'entreprise, dans la création et le développement des talents à travers les organisations.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-160x160.jpg",
@@ -464,7 +2163,7 @@
                 }
               },
               "authorName": "Sylvie Nina",
-              "authorBio": "Passionated coach"
+              "authorBio": "Coach Passionnée"
             }
           ],
           "_anchor": "testimonials1-6",
@@ -522,7 +2221,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Gallery",
+          "title": "Gallerie",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -675,18 +2374,18 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "SUBSCRIBE",
-          "subtitle": "...and be the first to be informed about our activities",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "title": "S'ABONNER",
+          "subtitle": "...pour être le premier informé de nos activités",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SOUSCRIRE</a>",
           "form": {
             "action": "maryanflore@yahoo.fr",
             "alerts": {
-              "success": "Thanks ! See you soon..."
+              "success": "Merci ! A bientôt."
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Saisissez votre adresse email"
               }
             }
           },
@@ -729,7 +2428,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE !"
+          "text": "PARTAGER CETTE PAGE &nbsp;!"
         },
         {
           "_tags": [
@@ -777,9 +2476,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm)<br>WhatsApp: +237 777 588 252<br> ",
-          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
+          "text1": "<strong>Addresse</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroun<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8h30- 17h)<br>WhatsApp: +237 777 588 252<br> ",
+          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Concepteur</a></p>"
         },
         {
           "_tags": [
@@ -805,1703 +2504,6 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 IMPACT."
-        }
-      ]
-    },
-    "services.html": {
-      "settings": {
-        "title": "Services ",
-        "meta_descr": "Web Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#0bcf22",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-d",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/session-2548826-2000x1328.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "BOOST YOUR LEADERSHIP CAPABILITIES WITH US",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            },
-            ".navbar-toggler": {
-              "color": "#0baf22"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#0baf22"
-            },
-            ".link, .dropdown-item": {
-              "color": "#0baf22",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#0baf22",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#19c224!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-9",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#0baf22",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>HOME&nbsp; &nbsp;</p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TESTIMONIES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#0baf22"
-            }
-          },
-          "_anchor": "footer1-b",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 IMPACT."
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-1u",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "users",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title1": "Presentation Skills Training",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Think of the last powerful presentation you saw… One that was an inspiring, motivating and informative. Don’t you want to present like that ?",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "hot-cup",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title2": "Corporate Public Speaking Workshop",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Hard skills can be learned in school and from books. Most soft skills are not taught well in school and have to be learned on the job by trial and error.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "features",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title3": "Youth Speaking Workshop",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Students learn to deliver short speeches and class presentations with ease. Tips and techniques are shared so that students become increasingly comfortable speaking in front of an audience. ",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title4": "Public Speaking Coaching",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "\"It's not what you say, but how you say it.\" How often have you heard that phrase? It might be over-familiar but it's well-used because it's true. <br>All what you need to become a polished persuasive public speaker<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "quote",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title5": "One to One Coaching",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "One-to-one coaching is the solution most preferred by Senior Managers.<br>The process is simple. We will meet with you to establish where you want to get to, where you are now and how long it will take to close the gap.<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-g",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/im1-1400x1998.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Presentation Skills Training",
-          "text": "Presentations are about the presenter sharing their expertise, insights, and clear messaging so their audience understands what the data means, actions to take, or changes to champion.<br><br>The most influential leaders know presentations are a platform to establishing thought leadership and industry presence.  <br><br>Through on site practice and feedback, IMPACT coaches entrepreneurs/executives/students to be more effective presenters by focusing on their audience and clarifying their message – whether they are leading a team, informing peers, promoting a project, or pitching their startups.<br><br>When, Where &amp; How much:<br><br>Classes for executives, managers and leaders<br>Classes for young professionals<br>This course is also available as one-on-one coaching and Corporate Public Speaking Workshop<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "30px",
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "msg-box5-h",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/corporate-1-1400x1981.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Corporate Public Speaking Workshop",
-          "text": "Almost all employees are expected to be able to confidently deliver a well-structured argument or operational report/review. But without training it’s a challenge. Technical, financial, as well as administrative personnel need to know the fundamentals of an effective presentation.<br><br>We offer speech training workshops that can be delivered on site affordably to groups of employees. We review the key principles of communications, and selected volunteers can have real-time practice. It is well-suited for  groups of eight to twelve members .<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "30px",
-              "text-align": "right"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box5-j",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/im2-1400x1988.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Public Speaking Coaching\u001b",
-          "text": "-Developing a performance persona for leadership.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">-Transitioning into a new role with more visibility.</span><br>-Pitching your products, services, or vision.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">-Improving your vocal skills and stage presence.</span><br>-Strengthening your ability to deliver a powerful message.<br>-Conquering fear of and enjoying public speaking.<br>-Skills in persuasion with prospects, customers, clients, and boards.<br>-Motivating and activating employees and stakeholders.<br>-Using body language and nonverbal communication effectively.<br>-Becoming a memorable speaker who reliably produced results.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "msg-box5-k",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Youth Speaking Workshop",
-          "text": "Particular focus is placed on effective body language,voice projection/control and establishing eye contact with the audience.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Students are coached on the step-by-step process of composing, practicing and delivering a speech while learning the fundamentals of how they will be evaluated. Students will be given the tools required to inspire, educate and entertain an audience in a fun filled activity based environment. Students truly learn that Standing Up and Speaking can actually be fun and rewarding.</span><br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">-Classes are held for 1-2 hours over 4 to 8 weeks</span><br>-This course can be delivered during school hours  or as an afterschool program<br>-Maximum students per class is 20<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK IT NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "msg-box5-m",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/recite-1v1jh7t-2-1400x1400.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ONE TO ONE COACHING",
-          "text": "-Attending a presentation and discovering that the speaker hasn’t really customised the content for your particular needs?<br>-Not having time to attend a training program ?<br>-Having development needs that are not shared by everyone?<br><br>Each of these examples occur more often than it should and is the result of the same error which is believing that communication is a one size fits all. But nothing could be further from the truth!<br><br>The process is simple. We will meet with you to establish where you want to get to, where you are now and how long it will take to close the gap.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOT IT NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#0baf22"
-            },
-            "SPAN": {
-              "color": "#0baf22"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts1-a",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm)<br>WhatsApp: +237 777 588 252<br> ",
-          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
-        }
-      ]
-    },
-    "events.html": {
-      "settings": {
-        "title": "Events !",
-        "meta_descr": "Website Builder Description"
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "30px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "3",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "HAPPY JUNE HOLS !!",
-                "showText": true,
-                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "HAPPY JUNE HOLS !!",
-                "showText": true,
-                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "HAPPY JUNE HOLS !!",
-                "showText": true,
-                "text": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "_anchor": "slider-w",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "content2-x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>It’s always such an odd contradiction of emotions – to spend as much time with kids brings so much joy. But when school is out and two or three of these kids find reason to fight about EVERYTHING – some days, I want to run.</blockquote><blockquote>Having said that, I still believe in them. And I know all parents will always want to make sure that we make the best of our situation and give them our best. So come July, we will be introducing a new event and two old ones.</blockquote>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#0baf22",
-              "font-size": "32px"
-            },
-            "SMALL": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-y",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "title": "IMPACT YOUTH LEADERSHIP PROGRAM 2017",
-          "meta": "ONE MONTH dedicated to kids communication and leadership<br><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#0baf22",
-              "text-align": "left",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "DIV": {
-              "font-size": "22px"
-            },
-            "H3": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box1-z",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">THIS SESSION IS CLOSED</a>",
-          "text": "Participants learn to :",
-          "title": "Evaluate present speaking ability<div>Organize and give speeches</div><div>Give impromptu talks</div><div>Control voice, vocabulary and gestures</div><div>Give constructive feedback and more</div>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "20px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-10",
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-16-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "WANT TO JOIN OUR NEXT TRAINING SESSION ?",
-          "subtitle": "Subscribe here and be the first to get in touch :)",
-          "form": {
-            "action": "contact@cabinet-impact.com",
-            "alerts": {
-              "success": "Thank you and see you soon !"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            },
-            ".navbar-toggler": {
-              "color": "#0baf22"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#0baf22"
-            },
-            ".link, .dropdown-item": {
-              "color": "#0baf22",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#0baf22",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#19c224!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-n",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#0baf22",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>HOME&nbsp; &nbsp;</p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TESTIMONIES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#0baf22"
-            }
-          },
-          "_anchor": "footer1-o",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 IMPACT."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#0baf22"
-            },
-            "SPAN": {
-              "color": "#0baf22"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts1-p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm)<br>WhatsApp: +237 777 588 252<br> ",
-          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
-        }
-      ]
-    },
-    "testimonies.html": {
-      "settings": {
-        "title": "Testimonies",
-        "meta_descr": "Web Page Generator Description"
-      },
-      "components": [
-        {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#0baf22",
-              "font-size": "36px"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc"
-            },
-            ".card-footer > div": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials3",
-          "testimonial": [
-            {
-              "text": "<p>“Its really a very amazing tool that makes me learn wonderful things about myself. I hope to have very big opportunity to use it in front of a public. Thanks again for this nice session”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/capture-156x160.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Anthony Kamgang",
-              "authorBio": "Youth speaker"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work IMPACT team. We are expecting the next session soon with advance tools with full leadership tips. Great effort and super experience.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-130x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Brice Muna",
-              "authorBio": "Youth speaker"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative programme, i like the great focus and time that was given to the fast thinking/fast reacting.&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">Give me more, I like it !”</span></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-143x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Leana Fotso",
-              "authorBio": "Youth speaker"
-            }
-          ],
-          "_anchor": "testimonials3-15",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "count": "3",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "WHAT OUR FANTASTIC GUESTS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-17",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "NEED MORE INFO ABOUT OUR ACTIVITIES ?",
-          "text": "<p>.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#0baf22"
-            }
-          },
-          "_anchor": "form1-16",
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT US",
-          "subtitle": "Become an inspiration to the world. Start here !",
-          "form": {
-            "action": "marianemegne@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            },
-            ".navbar-toggler": {
-              "color": "#0baf22"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#0baf22"
-            },
-            ".link, .dropdown-item": {
-              "color": "#0baf22",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#0baf22",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#19c224!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-11",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#0baf22",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>HOME&nbsp; &nbsp;</p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TESTIMONIES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#0baf22"
-            }
-          },
-          "_anchor": "footer1-12",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 IMPACT."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#0baf22"
-            },
-            "SPAN": {
-              "color": "#0baf22"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts1-13",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm)<br>WhatsApp: +237 777 588 252<br> ",
-          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
-        }
-      ]
-    },
-    "book.html": {
-      "settings": {
-        "title": "Book a session",
-        "meta_descr": "Website Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            },
-            ".navbar-toggler": {
-              "color": "#0baf22"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#0baf22"
-            },
-            ".link, .dropdown-item": {
-              "color": "#0baf22",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#0baf22",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#19c224!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1i",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#0baf22",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inspire. Motivate. Persuade. Achieve. Challenge. Trust</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>HOME&nbsp; &nbsp;</p></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.html\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box8-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-g\">Presentation Skills Training</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-h\">Corporate Public Speaking Workshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-j\" aria-expanded=\"false\">Public Speaking Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-k\">Youth Speaking WorkShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.html#msg-box5-m\">One to one Coaching</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonies.html\">TESTIMONIES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#0baf22"
-            }
-          },
-          "_anchor": "footer1-1j",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 IMPACT."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#0bcf22",
-              "font-size": "36px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1n",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1276.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "BOOK A TRAINING SESSION",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#0bcf22",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "form1-1s",
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Please, write your choice at the beginning of your message.",
-          "form": {
-            "action": "contact@cabinet-impact.com",
-            "alerts": {
-              "success": "Thank you ! We will contact you between the next 48 hours."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SELECT</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#0baf22"
-            },
-            "SPAN": {
-              "color": "#0baf22"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "contacts1-1k",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/imageedit-1-178x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Cabinet IMPACT<br>Immeuble Dekage Akwa<br>Douala, Cameroon<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@cabinet-impact.com<br>Mobile: +237 699 009 863<br>Phone:&nbsp;+237 233 43 14 26&nbsp;(8.30 am-5pm)<br>WhatsApp: +237 777 588 252<br> ",
-          "text3": "<p><strong>Links</strong><br><a href=\"https://www.linkedin.com/company-beta/11223402/\" target=\"_blank\">LinkedIn Page&nbsp;</a><a href=\"#\" style=\"background-color: rgb(46, 46, 46); line-height: 1.5;\"></a><br></p><p><a class=\"text-primary\" href=\"http://newframegroup.com\" target=\"_blank\">Website Builder</a></p>"
         }
       ]
     }
